@@ -1,2 +1,2 @@
-# autocomplete
-Autocomplete feature developed using the Trie data structure
+# Autocomplete
+Autocomplete feature developed using the **Trie** data structure
